@@ -1,0 +1,8 @@
+{
+  "name": "sidr-boutique",
+  "version": "1.0.0",
+  "description": "Site e-commerce Poudre de Sidr",
+  "dependencies": {
+    "stripe": "^14.0.0"
+  }
+}
